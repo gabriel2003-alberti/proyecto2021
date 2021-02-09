@@ -1,0 +1,46 @@
+h1{
+	color:black;
+
+}
+address{
+	color:green;
+
+}
+#cabecera{   
+	position: absolute;
+	text-align: center;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+    background-color: brown;
+}
+#indice{
+	position: absolute;
+	top:13%;
+	left:2%;
+	width: 25%;
+	height: 140%
+}
+#contenido{
+	position: absolute;
+	top:13%;
+	left:30%;
+	width: 65%;
+	height:140%;
+	background-color: pink;
+}
+#piedepagina{
+	position: absolute;
+	top:89%;
+	left:30%;
+	height: 5%;
+	width: 65%;
+}
+.b{
+    background-color: pink;
+}
+
+.a{
+	background-color: turquoise;
+}
